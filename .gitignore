@@ -12,4 +12,7 @@ secrets.yml
 
 .byebug_history
 
-client/node_modules
+/client/node_modules
+
+# Production
+/public
